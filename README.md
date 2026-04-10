@@ -41,9 +41,8 @@ pip install -r requirements.txt
 python main.py
 ```
 
-### What I would love to  Improve ###
-* Efficient Frontier plotting
-* Portfolio constraints
+### What I would love to  Improve/Add ###
+* Portfolio constraints(get more contstraints like sentiments, regional news or random events for more accurate optimization)
 * Backtesting
 * Dashboard (Streamlit)
 
