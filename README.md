@@ -2,7 +2,7 @@
 =======
 ### Sharpie: Portfolio Optimization using Monte Carlo Simulation ###
 
-This project builds an optimized stock portfolio using historical market data and Monte Carlo simulation to maximize the Sharpe Ratio. This project took help of AI-assistance like cursor/codex and I tried to not vibe code it .
+This project builds an optimized stock portfolio using historical market data and Monte Carlo simulation to maximize the Sharpe Ratio.
 
 ## Features
 
